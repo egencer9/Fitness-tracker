@@ -36,8 +36,7 @@ The Fitness Tracker App is a Spring Boot application designed to help users trac
    git clone <repository-url>
    cd fitness-tracker-app
 
-   spring.datasource.url=jdbc:mysql://localhost:3306/fitness_tracker
-spring.datasource.username=<your-username>
-spring.datasource.password=<your-password>
+
+
 
 
